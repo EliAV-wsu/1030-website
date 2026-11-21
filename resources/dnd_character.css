@@ -1,0 +1,52 @@
+/*
+	grey #787775
+	red
+	teal #329ba8
+*/
+
+
+
+body {
+	background-color: #787775;
+	padding: 0 24px 36px 24px;
+}
+a {
+	color: #a10808;
+	font-weight: bold;
+}
+a:hover {
+	color:#0b13a3 ;
+}
+h1,h2 {
+	color:#0b13a3 ;
+}
+h1 {
+	text-align: center;
+}
+
+}
+p,li,table {
+	font-size: 1.2em;
+}
+th,td {
+	/*border-color:#329ba8 ;
+	border-style: solid;
+	border-width: 10px;*/
+	border: #329ba8 solid 10px;
+	padding: 8px;
+}
+table {
+	border-collapse: collapse;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+div {
+  background-color: #a10808;
+  width: 554px;
+  padding: 10px;
+  border-style: inset;
+  border-width: 8px;
+  border-color: #329ba8;
+  margin: 6px;
+}
