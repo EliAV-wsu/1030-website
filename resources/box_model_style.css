@@ -1,0 +1,60 @@
+/*
+  white: #FFFFFF
+  Red: #C53030
+  Orange: #C05621
+
+*/
+
+h1,h2,h3 {
+  color: #C53030;
+}
+
+h1 {
+  text-align: center;
+}
+
+th,td {
+  border-color:#C05621 ;
+  border-style: solid;
+  border-width: 1.2em;
+  padding: 6px 10px 8px 10px;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+a {
+  color: #C53030;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #C05621;
+}
+
+p.box_model_text {
+  background-color: #C53030;
+  color: #FFFFFF;
+  width: 510px;
+  padding: 10px;
+  border-style: ridge;
+  border-color: #C05621;
+  border-width: 9px;
+  margin: 8px;
+}
+
+div {
+  background-color: #C53030;
+  width: 646px;
+  padding: 10px;
+  border-style: inset;
+  border-width: 8px;
+  border-color: #C05621;
+  margin: 6px;
+}
+
+body {
+  padding: 8px;
+}

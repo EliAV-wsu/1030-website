@@ -1,0 +1,43 @@
+/*
+	blue #329ba8
+	orange #db9914
+	light orange #e6b95e
+	dark blue #0b13a3
+	brown #522818
+*/
+
+body {
+	background-color: #e6b95e;
+	padding: 0 24px 36px 24px;
+}
+a {
+	color: #522818;
+	font-weight: bold;
+}
+a:hover {
+	color:#0b13a3 ;
+}
+h1,h2 {
+	color:#0b13a3 ;
+}
+h1 {
+	text-align: center;
+}
+p.picture {
+	text-align: center;
+}
+p,li,table {
+	font-size: 1.2em;
+}
+th,td {
+	/*border-color:#329ba8 ;
+	border-style: solid;
+	border-width: 10px;*/
+	border: #329ba8 solid 10px;
+	padding: 8px;
+}
+table {
+	border-collapse: collapse;
+	margin-left: auto;
+	margin-right: auto;
+}
